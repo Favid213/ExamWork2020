@@ -1,0 +1,11 @@
+1. Ötlet (ez volt a ppt amit le kelett adnotok)
+2. Design terv készítése (photoshopban rakjunk össze egy tervet, illesszük be a használni kívánt képeket, játszunk a színekke, 
+   betűtípusokkal, formákkal, ha kell, csináljuk meg a háttérképünket, és egyéb saját készítésű design elemeket)
+3. Prototípus készül (sima statikus oldal)
+4. Programozás (dinamikus oldal)
+5. Tartalom feltöltés (eredeti szövegek, média anyagok beillesztése)
+6. Tesztelés (Ha valamin megbukott, innen még visszaléphetünk)
+7. Élesítés (Nálatok ez lesz a beadás)
+8. Karbantartás (Amennyiben létező oldalt hoztok létre, és publikáljátok, fontos, hogy pár hét múlva ellenőrizzétek SEO szempontból, 
+   visszajelzések alapján, és javítsátok az esetleges hibákat) 
+

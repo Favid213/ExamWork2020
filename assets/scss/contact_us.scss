@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "manrope";
+  src: url("../manrope/Manrope-Medium.ttf");
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(rgb(176, 178, 255), rgb(221, 222, 255), rgb(255, 255, 255));
+}
+
+div {
+  font-family: "manrope";
+  &.container {
+    margin-top: 120px;
+    margin-bottom: 20px;
+  }
+}

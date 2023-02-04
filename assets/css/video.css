@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "manrope";
+  src: url("../manrope/Manrope-Medium.ttf");
+}
+
+div {
+  font-family: "manrope";
+}
+
+div h1 {
+  margin-top: 50px;
+}
+
+div h3 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+div img.cross {
+  height: 120px;
+  margin-bottom: 10px;
+}
+
+div#video {
+  margin-bottom: 10px;
+}
+
+#world {
+  margin-top: 80px;
+  width: 400px;
+  height: 60px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: #a1a5ce;
+  position: relative;
+  animation: world 5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes world {
+  from {
+    left: 0px;
+  }
+  to {
+    left: 950px;
+  }
+}
+
+section.gallery_section {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+img {
+  height: 200px;
+}

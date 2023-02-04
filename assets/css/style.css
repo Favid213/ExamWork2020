@@ -1,0 +1,16 @@
+nav {
+  background-color: #1d2e55;
+}
+
+footer {
+  background-color: white;
+  background-image: linear-gradient(white, #8396ff);
+  margin-top: 50px;
+  position: relative;
+  height: 200px;
+}
+
+footer div.footer_content {
+  height: 100%;
+  padding: 50px;
+}

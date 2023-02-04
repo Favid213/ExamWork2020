@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "manrope";
+  src: url("../manrope/Manrope-Medium.ttf");
+}
+
+header {
+  height: 700px;
+}
+
+header.bg {
+  background-image: url("../img/home.jpg");
+  background-position: center;
+  margin-bottom: 50px;
+}
+
+div {
+  font-family: "manrope";
+}
+
+div.menu {
+  margin-bottom: 50px;
+}
+
+div p.well {
+  text-align: center;
+  word-spacing: 1px;
+  font-size: 18px;
+}
+
+div h3 {
+  letter-spacing: 3px;
+}
+
+div.our {
+  margin-left: 50px;
+  margin-bottom: 95px;
+  padding: 140px;
+}
+
+div.our h1 {
+  margin-bottom: 30px;
+}
+
+div.our h5 {
+  letter-spacing: 1px;
+}
+
+div img#cross {
+  width: 120px;
+  margin-bottom: 10px;
+}

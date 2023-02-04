@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "manrope";
+  src: url("../manrope/Manrope-Medium.ttf");
+}
+
+div {
+  font-family: "manrope";
+}
+
+div img#cross {
+  width: 150px;
+  margin-bottom: 0;
+}
+
+div.our h1 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+div.slider img {
+  width: 100%;
+}
